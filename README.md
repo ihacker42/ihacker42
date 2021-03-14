@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ihacker42
+- 🔭 I’m currently working on Laravel, JavaScript, React js etc.
 - 👀 I’m interested in learning new tech
 - 🌱 I’m currently learning node js
+- 💻 I have worked on HTML/CSS, Javascript, Php, Laravel, JavaScript, React js, Angular js, MySQL, MongoDB, materializecss etc.
 - 📫 How to reach me hiteshbansal42@gmail.com || https://www.linkedin.com/in/hitesh-bansal-793035131/
 
 <!---
